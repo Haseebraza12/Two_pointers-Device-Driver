@@ -1,0 +1,1 @@
+savedcmd_/home/haseeb/Desktop/Two_pointers/dual_pointer.mod := printf '%s\n'   dual_pointer.o | awk '!x[$$0]++ { print("/home/haseeb/Desktop/Two_pointers/"$$0) }' > /home/haseeb/Desktop/Two_pointers/dual_pointer.mod

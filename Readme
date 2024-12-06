@@ -1,0 +1,5 @@
+sudo insmod dual_pointer.ko  //loading karne k lye
+sudo dmesg | tail // logs check karne k lye
+
+
+sudo rmmod dual_pointer // unload karne k lye
